@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hernandomartin12/weather1.git/static/css/main.f1df2034.chunk.css",
+    "main.js": "/hernandomartin12/weather1.git/static/js/main.fa7bc7f2.chunk.js",
+    "main.js.map": "/hernandomartin12/weather1.git/static/js/main.fa7bc7f2.chunk.js.map",
+    "runtime-main.js": "/hernandomartin12/weather1.git/static/js/runtime-main.d471520e.js",
+    "runtime-main.js.map": "/hernandomartin12/weather1.git/static/js/runtime-main.d471520e.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/hernandomartin12/weather1.git/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2f48037b.chunk.js": "/hernandomartin12/weather1.git/static/js/2.2f48037b.chunk.js",
+    "static/js/2.2f48037b.chunk.js.map": "/hernandomartin12/weather1.git/static/js/2.2f48037b.chunk.js.map",
+    "static/js/3.5506123d.chunk.js": "/hernandomartin12/weather1.git/static/js/3.5506123d.chunk.js",
+    "static/js/3.5506123d.chunk.js.map": "/hernandomartin12/weather1.git/static/js/3.5506123d.chunk.js.map",
+    "index.html": "/hernandomartin12/weather1.git/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/hernandomartin12/weather1.git/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.f1df2034.chunk.css.map": "/hernandomartin12/weather1.git/static/css/main.f1df2034.chunk.css.map",
+    "static/js/2.2f48037b.chunk.js.LICENSE.txt": "/hernandomartin12/weather1.git/static/js/2.2f48037b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hernandomartin12/weather1.git/static/media/foto.aeb4a6d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d471520e.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2f48037b.chunk.js",
+    "static/css/main.f1df2034.chunk.css",
+    "static/js/main.fa7bc7f2.chunk.js"
+  ]
+}
