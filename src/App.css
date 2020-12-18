@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Nunito;
+  color: #fff;
+}
+
+.button {
+  padding-bottom: 1000px;
+  padding-left: 100px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+}
+
+.title {
+  padding: 50px 0 40px 0;
+  color: #fff;
+}
+
+.weather-temp {
+  padding-bottom: 40px;
+  padding-left: 60px;
+}
+
+.weather-temp h1,
+.weather-temp h4,
+.weather-temp p {
+  padding-bottom: 10px;
+}
+
+.weather-tempdeafult {
+  padding-bottom: 0px;
+  padding-left: 500px;
+}
+
+.weather-info p,
+.weather-info h2 {
+  text-align: center;
+}
+
+.user-weather {
+  color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+}
+
+.navbar {
+  background-color: #ddd;
+}
+
+.mainImg {
+  padding-top: 15px;
+}
+
+.region {
+  margin-top: 30px;
+}
+
+.regioninput {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #fff;
+  padding: 0 50px 0 80px;
+  outline: none;
+}
+
+.regioninput::placeholder {
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: 1rem;
+  padding-left: 0;
+}
+
+.pollution {
+  display: flex;
+  justify-content: center;
+}
+
+.pollutionInner {
+  flex: 0 0 50%;
+  display: flex;
+}
+
+.aqiIndex {
+  font-size: 70px;
+  text-align: center;
+}
+
+.aqi,
+.pmCont {
+  flex: 1;
+}
+
+.aqi {
+  padding: 20px;
+  border-radius: 15px;
+  margin-right: 15px;
+}
+
+.pmCont {
+  align-self: center;
+}
+
+.pmCont p {
+  color: black;
+  margin: 0;
+}
+
+.btnCont {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
