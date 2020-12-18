@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Nunito;
-  color: #fff;
+  color: rgb#3D3951;
 }
 
 .button {
@@ -23,7 +23,7 @@
 
 .title {
   padding: 50px 0 40px 0;
-  color: #fff;
+  color: rgb#3D3951;
 }
 
 .weather-temp {
@@ -48,14 +48,14 @@
 }
 
 .user-weather {
-  color: #fff;
+  color:rgb#3D3951;
   padding: 30px;
   border-radius: 10px;
   border: 1px solid #fff;
 }
 
 .navbar {
-  background-color: #ddd;
+  background-color:rgb#3D3951;
 }
 
 .mainImg {
